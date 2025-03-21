@@ -27,7 +27,7 @@ A Streamlit web application that fetches, analyzes, and visualizes Air Quality I
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/aqi_app.git
+   git clone https://github.com/your-username/aqi-train.git
    cd aqi_app
    ```
 

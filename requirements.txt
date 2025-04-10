@@ -1,8 +1,0 @@
-google-generativeai
-streamlit
-pandas
-numpy
-scikit-learn
-seaborn
-matplotlib
-requests
